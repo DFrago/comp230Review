@@ -6,6 +6,7 @@ these problems are not from the professor, so they are in NO WAY guranteed to co
 If nothing else, hopefully they serve as good practice :)
 It is recommended to not reuse programs written for prior problems for the sake of practice.
 Additionally, it is recommended to write each program repeatedly until you can do so without any assistance(IDE,AI,Internet or whatever else). But you do you!
+There will be a directory for each quiz/exam, which contains the problems, the solutions, and a sub directory with any files needed for the problems (This is where your solutions should go).
 If there are any questions about the material, feel free to create an issue with the details of the question.
 This repo will be updated as the semester progresses, so make sure to pull new updates!
 GLHF!!!
